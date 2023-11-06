@@ -23,3 +23,9 @@ body {
 .navbar a.active {
   background-color: black; /* Background color for the active link */
 }
+
+/* Hover effect for links */
+.navbar a:hover {
+  background-color: #1F2B96; /* Background color on hover */
+  color: white; /* Text color on hover */
+}
