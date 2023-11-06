@@ -29,3 +29,39 @@ body {
   background-color: #1F2B96; /* Background color on hover */
   color: white; /* Text color on hover */
 }
+h1 {
+  color: #88a27f;
+  font-size: 48px;
+  font-family: roboto;
+  font-weight: 400;
+  line-height: 27.50px;
+  word-wrap: break-word
+  }
+  h2
+  {
+    color: white;
+    font-size: 32px;
+    font-family: roboto;
+    font-weight: 600;
+    line-height: 27.50px;
+    word-wrap: break-word
+  }
+  h3
+  {
+      color: white;
+      font-size: 32px;
+      font-family: O;
+      font-weight: 400;
+      line-height: 27.50px;
+      word-wrap: break-word;
+      
+  }
+  h4
+  {
+    color: #599d7b;
+    font-size: 32px;
+    font-family: Oregano;
+    font-weight: 400;
+    line-height: 27.50px;
+    word-wrap: break-word
+  }
