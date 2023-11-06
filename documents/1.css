@@ -8,3 +8,13 @@ body {
   background-color: #1F2B96; /* Background color for the navigation bar */
   overflow: hidden; /* Clear floats */
 }
+
+/* Style for the navigation links */
+.navbar a {
+  float: right; /* Align links to the right */
+  display: block; /* Make the links block-level for better spacing */
+  color: white; /* Text color for links */
+  text-align: center; /* Center text horizontally */
+  padding: 14px 16px; /* Add padding for spacing */
+  text-decoration: none; /* Remove underline from links */
+}
