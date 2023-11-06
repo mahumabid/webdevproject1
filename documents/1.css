@@ -18,3 +18,8 @@ body {
   padding: 14px 16px; /* Add padding for spacing */
   text-decoration: none; /* Remove underline from links */
 }
+
+/* Style for the active link */
+.navbar a.active {
+  background-color: black; /* Background color for the active link */
+}
