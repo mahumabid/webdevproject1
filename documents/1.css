@@ -65,3 +65,29 @@ h1 {
     line-height: 27.50px;
     word-wrap: break-word
   }
+
+  .container {
+    display: flex; /* Use flexbox to create a flexible container */
+    align-items: center; /* Vertically center the content */
+  }
+  
+  .image {
+    max-width: 50%; /* Adjust the width of the image as needed */
+  }
+  
+  .text {
+    flex: 1; /* Allow the text to take up the remaining space */
+    padding: 10px; /* Add spacing around the text */
+  }
+  
+  .pill-button {
+    background-color: #000A5D;
+    border: none;
+    border-radius: 50px; /* Creates a pill shape */
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
