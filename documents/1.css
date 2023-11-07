@@ -1,7 +1,7 @@
 body {
   background: #1F2B96;
   color: white;
-  font: 'Roboto', sans-serif;
+  font: 'Oswald', sans-serif;
 }
 
 .navbar {
@@ -32,7 +32,7 @@ body {
 h1 {
   color: #88a27f;
   font-size: 48px;
-  font-family: roboto;
+  font-family: Oregano;
   font-weight: 400;
   line-height: 27.50px;
   word-wrap: break-word
@@ -41,7 +41,7 @@ h1 {
   {
     color: white;
     font-size: 32px;
-    font-family: roboto;
+    font-family: Oswald;
     font-weight: 600;
     line-height: 27.50px;
     word-wrap: break-word
