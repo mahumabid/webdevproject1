@@ -1,11 +1,11 @@
 body {
-    background: black;
+    background: #1F2B96;
     color: white;
     font: 'Roboto', sans-serif;
 }
 
 .navbar {
-  background-color: black; /* Background color for the navigation bar */
+  background-color: #1F2B96; /* Background color for the navigation bar */
   overflow: hidden; /* Clear floats */
 }
 
@@ -21,12 +21,12 @@ body {
 
 /* Style for the active link */
 .navbar a.active {
-  background-color: black; /* Background color for the active link */
+  background-color: #1F2B96; /* Background color for the active link */
 }
 
 /* Hover effect for links */
 .navbar a:hover {
-  background-color: black; /* Background color on hover */
+  background-color: #1F2B96; /* Background color on hover */
   color: white; /* Text color on hover */
 }
 h1 {
