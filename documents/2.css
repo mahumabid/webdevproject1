@@ -1,0 +1,31 @@
+body {
+    background: black;
+    color: white;
+    font: 'Roboto', sans-serif;
+}
+
+.navbar {
+  background-color: black; /* Background color for the navigation bar */
+  overflow: hidden; /* Clear floats */
+}
+
+/* Style for the navigation links */
+.navbar a {
+  float: right; /* Align links to the right */
+  display: block; /* Make the links block-level for better spacing */
+  color: white; /* Text color for links */
+  text-align: center; /* Center text horizontally */
+  padding: 14px 16px; /* Add padding for spacing */
+  text-decoration: none; /* Remove underline from links */
+}
+
+/* Style for the active link */
+.navbar a.active {
+  background-color: black; /* Background color for the active link */
+}
+
+/* Hover effect for links */
+.navbar a:hover {
+  background-color: black; /* Background color on hover */
+  color: white; /* Text color on hover */
+}
