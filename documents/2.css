@@ -100,3 +100,35 @@ h1 {
         width: 150px; /* Adjust the width as needed */
         height: 150px; /* Maintain the aspect ratio */
       }
+      .textbox {
+        flex: 1;
+        padding: 10px;
+        border: 1px solid #ccc;
+        text-align: center;
+        color:white;
+        background-color: #00ACC1;
+        width: 200px; /* Set the width as needed */
+        height: 200px;
+        margin-right: 10px; /* Adjust spacing between text boxes */
+        
+      }
+      
+      .heading {
+        font-size: 30px;
+      }
+      
+      .subtext {
+        font-size: 24px;
+      }   
+      .footer {
+        /* background-color: #f0f0f0; */
+        padding: 10px;
+        text-align: center;
+        
+      }
+      
+      .footer i {
+        font-size: 24px;
+        margin: 0 10px;
+        color: white;
+      }
