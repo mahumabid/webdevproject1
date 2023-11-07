@@ -1,5 +1,5 @@
 body {
-  background: black;
+  background: #1F2B96;
   color: white;
   font: 'Roboto', sans-serif;
 }
@@ -21,7 +21,7 @@ body {
 
 /* Style for the active link */
 .navbar a.active {
-  background-color: black; /* Background color for the active link */
+  background-color: #1F2B96; /* Background color for the active link */
 }
 
 /* Hover effect for links */
