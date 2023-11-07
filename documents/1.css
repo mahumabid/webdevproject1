@@ -30,7 +30,7 @@ body {
   color: white; /* Text color on hover */
 }
 h1 {
-  color: #88a27f;
+  color: #00ACC1;
   font-size: 48px;
   font-family: Oregano;
   font-weight: 400;
@@ -58,7 +58,7 @@ h1 {
   }
   h4
   {
-    color: #599d7b;
+    color: #00ACC1;
     font-size: 32px;
     font-family: Oregano;
     font-weight: 400;
