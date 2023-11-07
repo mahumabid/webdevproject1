@@ -65,6 +65,7 @@ h1 {
       line-height: 27.50px;
       word-wrap: break-word
     }
+
     .container {
         display: flex; /* Use flexbox to create a flexible container */
         align-items: center; /* Vertically center the content */
@@ -106,7 +107,7 @@ h1 {
         border: 1px solid #ccc;
         text-align: center;
         color:white;
-        background-color: #00ACC1;
+        background-color: #b81868;
         width: 200px; /* Set the width as needed */
         height: 200px;
         margin-right: 10px; /* Adjust spacing between text boxes */
